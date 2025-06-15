@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Riko Xu</h1>
-<h3 align="center">A math graduate at Imperial College with experience in finance and trading.</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **HFT, and AI models.**
 
-- 📝 I regularly write articles on [to be continued... (trust me)](to be continued... (trust me))
+- 📫 How to reach me: **rikoxu@outlook.com**
 
-- 📫 How to reach me **rikoxu@outlook.com**
+- 📖 Educational Background:
+   - MSci Mathematics, Imperial College London (2019 - 2023)
+   - MA World Literature, University of Warwick (2023 - 2024)
+     > Yes, I know both math and literature.
+- 💼 Work Experience: I was a 
+   - Quant Researcher at an investment bank (focused on US and Asia stock markets)
+   - Data Analyst at a technology firm (focused on data processing and visualization)
+   - Data Engineer at a credit rating company (focused on Python-based workflow automation and web scraper development)
+   - Teaching Assistant at university (in probability and statistics modules)
+- 📝 I regularly write articles on [to be continued... (trust me)]
 
 - ⚡ Fun fact: I am **a cat person, a climber, a symphony lover, and care about this world**
 
