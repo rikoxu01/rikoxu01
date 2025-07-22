@@ -21,8 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wanting xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wanting xu" height="30" width="40" /></a>
-<a href="https://instagram.com/wanting__xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wanting__xu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wx1118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wx1118" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
